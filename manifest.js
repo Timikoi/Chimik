@@ -1,0 +1,9 @@
+{
+  "name": "Chimik",
+  "short_name": "OfflineSite",
+  "start_url": "index.md",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": []
+}
