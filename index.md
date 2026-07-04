@@ -1,4 +1,4 @@
-
+<title>Chimik</title>
 ## Chimik | [Vlog](vlog.md) | [Articles](articles.md) | [Chaîne](chaine.md) | Acceuil
 ### Qui est Chimik ? 
 ***C'est moi !*** (Mon vrai nom c'est **Iyad**). Moi, je tente et je fais 
