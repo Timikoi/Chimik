@@ -13,6 +13,13 @@ Et en codage j'adore le Markdown ! Même ce site est en Markdown ! Et je t'appre
 "Qui marche à quatres pattes le matin, deux pattes le midi et trois pattes le soir ?" (Ceci est une énigme connue du Sphinx de Grèce)
 --- 
 Chimik and Limop Inc. ©️
+<link rel="manifest" href="manifest.json">
+<script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('sw.js');
+  }
+</script>
+
 
 
 
