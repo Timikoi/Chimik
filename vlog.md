@@ -19,4 +19,7 @@ Après-midi :
 | Préparations matériel    |Gouter fin d'année 
 | Partie 1 devant la classe|Partie 2 devant la classe 
 
-Salut ! C'était Chimik pour le 1er VLOG !                   
+Salut ! C'était Chimik pour le 1er VLOG !  
+**Vlog 2 :** Le nouveau site<br>
+
+What's up ma boy, les amis ! Aujourd'hui je crée un nouveau site avec Aya, voici le lien : ayou58.github.io/la-bijouterie-des-d-tectives C'est un site de vente de bijoux, avec une offre exceptionelle qui va bientôt arriver. J'en parle dans ma vidéo "Notre site de fou zinzin" et Ciao-bye, CYBER !
